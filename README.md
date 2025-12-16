@@ -11,7 +11,19 @@ A premium Flutter application for tracking monthly expenses and income, featurin
 - **Premium UI**: Dark mode design with smooth animations and glass effects.
 - **Offline Support**: All data is stored locally using SQLite.
 
-## 💾 Database Information
+## � Screenshots
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
+  <img src="images/Screenshot_1765912912.png" height="400" alt="Dashboard" />
+  <img src="images/Screenshot_1765912925.png" height="400" alt="Transactions" />
+  <img src="images/Screenshot_1765912927.png" height="400" alt="Add Expense" />
+  <img src="images/Screenshot_1765912930.png" height="400" alt="Category Selection" />
+  <img src="images/Screenshot_1765912933.png" height="400" alt="Expense Details" />
+  <img src="images/Screenshot_1765912940.png" height="400" alt="Summary View" />
+  <img src="images/Screenshot_1765912943.png" height="400" alt="Dark Mode" />
+</div>
+
+## �💾 Database Information
 
 The application uses **SQLite** for robust local data storage.
 
